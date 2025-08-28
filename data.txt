@@ -1,0 +1,10 @@
+Line 1: The quick brown fox jumps over the lazy dog.
+Line 2: A journey of a thousand miles begins with a single step.
+Line 3: To be or not to be, that is the question.
+Line 4: All that glitters is not gold.
+Line 5: The early bird catches the worm.
+Line 6: Actions speak louder than words.
+Line 7: A picture is worth a thousand words.
+Line 8: When in Rome, do as the Romans do.
+Line 9: Necessity is the mother of invention.
+Line 10: Fortune favors the bold.
